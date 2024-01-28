@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bekasatuboldiev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)        [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=bekmuratsatyboldiev98&theme=dark)](https://github.com/KnlnKS/leetcode-stats) 
 
 <!---Для компактной версии-->
