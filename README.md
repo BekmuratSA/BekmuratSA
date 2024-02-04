@@ -16,7 +16,7 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 <br>
-        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BekmuratSA&layout=compact)](https://github.com/anuraghazra/github-readme-stats) </li> [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=bekmuratsatyboldiev98&theme=dark)](https://github.com/KnlnKS/leetcode-stats) 
+        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BekmuratSA&layout=compact)](https://github.com/anuraghazra/github-readme-stats) </li> [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=BekmuratSA&theme=dark)](https://github.com/KnlnKS/leetcode-stats) 
 
 <!---Для компактной версии-->
 
